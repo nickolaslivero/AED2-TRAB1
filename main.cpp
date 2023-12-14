@@ -154,7 +154,7 @@ void heapSort(int arr[], int n, long long& comparisons, long long& movements) {
        if (largest != 0) {
            swap(arr[0], arr[largest]);
            movements++;
-           i--; // Because we have decreased the size of the heap
+           i--;
        }
    }
 }
@@ -256,8 +256,6 @@ int main() {
                 generateSortedArray(arr, size);
             }
 
-            cout << "Array size: " << size << " - Type: " << type << endl;
-
             for (const string& algorithm : algorithms) {
                 comparisons = 0;
                 movements = 0;
@@ -279,11 +277,8 @@ int main() {
 
                 }
 
-                cout << setw(20) << left << "Algorithm: " << algorithm << endl;
-                cout << setw(20) << left << "Time taken: " << fixed << setprecision(6) << timeTaken << " seconds" << endl;
-                cout << setw(20) << left << "Comparisons: " << comparisons << endl;
-                cout << setw(20) << left << "Movements: " << movements << endl;
-                cout << endl;
+                cout << "Array Size,Type,Algorithm,Time taken,Comparisons,Movements" << endl;
+                cout << size << "," << type << "," << algorithm << "," << fixed << setprecision(6) << timeTaken << "," << comparisons << "," << movements << endl;
             }
 
             delete[] arr;
