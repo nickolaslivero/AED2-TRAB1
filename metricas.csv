@@ -1,112 +1,57 @@
 Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Random,Bubble Sort,0.000058,4950,2471
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Random,Selection Sort,0.000018,4950,99
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
+100,Random,Bubble Sort,0.000079,4950,2531
+100,Random,Selection Sort,0.000030,4950,99
 100,Random,Insertion Sort,0.000002,0,99
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Random,Shell Sort,0.000004,0,503
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Random,Quick Sort,0.000011,2599,150
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Random,Heap Sort,0.000003,63,125
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Random,Merge Sort,0.000031,500,672
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Sorted,Bubble Sort,0.000031,4950,0
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Sorted,Selection Sort,0.000031,4950,99
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
+100,Random,Shell Sort,0.000005,0,503
+100,Random,Quick Sort,0.000015,2599,150
+100,Random,Heap Sort,0.000004,63,125
+100,Random,Merge Sort,0.000026,500,672
+100,Sorted,Bubble Sort,0.000033,4950,0
+100,Sorted,Selection Sort,0.000028,4950,99
 100,Sorted,Insertion Sort,0.000002,0,99
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
 100,Sorted,Shell Sort,0.000005,0,503
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Sorted,Quick Sort,0.000013,2465,279
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Sorted,Heap Sort,0.000003,46,125
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100,Sorted,Merge Sort,0.000019,501,672
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Random,Bubble Sort,0.004163,499500,250679
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Random,Selection Sort,0.001530,499500,999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Random,Insertion Sort,0.000090,0,999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
+100,Sorted,Quick Sort,0.000018,2152,292
+100,Sorted,Heap Sort,0.000004,53,125
+100,Sorted,Merge Sort,0.000022,496,672
+1000,Random,Bubble Sort,0.004763,499500,250815
+1000,Random,Selection Sort,0.001728,499500,999
+1000,Random,Insertion Sort,0.000007,0,999
 1000,Random,Shell Sort,0.000044,0,8006
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Random,Quick Sort,0.000701,250999,1500
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Random,Heap Sort,0.000017,597,1250
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Random,Merge Sort,0.000201,7531,9976
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Sorted,Bubble Sort,0.001972,499500,0
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Sorted,Selection Sort,0.001556,499500,999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
+1000,Random,Quick Sort,0.000734,250999,1500
+1000,Random,Heap Sort,0.000016,594,1250
+1000,Random,Merge Sort,0.000188,7534,9976
+1000,Sorted,Bubble Sort,0.002000,499500,0
+1000,Sorted,Selection Sort,0.001566,499500,999
 1000,Sorted,Insertion Sort,0.000006,0,999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
 1000,Sorted,Shell Sort,0.000043,0,8006
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Sorted,Quick Sort,0.000656,250999,1500
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Sorted,Heap Sort,0.000014,625,1250
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-1000,Sorted,Merge Sort,0.000180,7572,9976
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Random,Bubble Sort,0.498018,49995000,24922339
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Random,Selection Sort,0.175847,49995000,9999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Random,Insertion Sort,0.000111,0,9999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Random,Shell Sort,0.005545,0,120005
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Random,Quick Sort,0.062962,25009999,15000
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Random,Heap Sort,0.000175,3385,12500
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Random,Merge Sort,0.002237,98919,133616
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Sorted,Bubble Sort,0.214489,49995000,0
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Sorted,Selection Sort,0.160147,49995000,9999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Sorted,Insertion Sort,0.000052,0,9999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Sorted,Shell Sort,0.000634,0,120005
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Sorted,Quick Sort,0.079283,25009999,15000
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Sorted,Heap Sort,0.000166,6250,12500
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-10000,Sorted,Merge Sort,0.002220,100138,133616
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Random,Bubble Sort,71.099102,4999950000,2500065585
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Random,Selection Sort,17.546726,4999950000,99999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Random,Insertion Sort,0.000524,0,99999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Random,Shell Sort,0.008050,0,1500006
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Random,Quick Sort,7.544492,2500099999,150000
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Random,Heap Sort,0.001304,25875,125000
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Random,Merge Sort,0.024902,1241703,1668928
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Sorted,Bubble Sort,23.031890,4999950000,0
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Sorted,Selection Sort,18.489757,4999950000,99999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Sorted,Insertion Sort,0.000507,0,99999
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Sorted,Shell Sort,0.009129,0,1500006
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Sorted,Quick Sort,7.763055,2500099999,150000
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Sorted,Heap Sort,0.001555,62500,125000
-Array Size,Type,Algorithm,Time taken,Comparisons,Movements
-100000,Sorted,Merge Sort,0.025418,1250397,1668928
+1000,Sorted,Quick Sort,0.000577,169497,3000
+1000,Sorted,Heap Sort,0.000014,459,1250
+1000,Sorted,Merge Sort,0.000242,7515,9976
+10000,Random,Bubble Sort,0.496428,49995000,24848456
+10000,Random,Selection Sort,0.175851,49995000,9999
+10000,Random,Insertion Sort,0.000076,0,9999
+10000,Random,Shell Sort,0.001109,0,120005
+10000,Random,Quick Sort,0.085243,25009999,15000
+10000,Random,Heap Sort,0.000175,3372,12500
+10000,Random,Merge Sort,0.002261,98971,133616
+10000,Sorted,Bubble Sort,0.219674,49995000,0
+10000,Sorted,Selection Sort,0.176995,49995000,9999
+10000,Sorted,Insertion Sort,0.000051,0,9999
+10000,Sorted,Shell Sort,0.000650,0,120005
+10000,Sorted,Quick Sort,0.066212,25009999,15000
+10000,Sorted,Heap Sort,0.000146,6250,12500
+10000,Sorted,Merge Sort,0.002155,100138,133616
+100000,Random,Bubble Sort,73.980515,4999950000,2495706463
+100000,Random,Selection Sort,19.239928,4999950000,99999
+100000,Random,Insertion Sort,0.000549,0,99999
+100000,Random,Shell Sort,0.008215,0,1500006
+100000,Random,Quick Sort,7.750660,2500099999,150000
+100000,Random,Heap Sort,0.001300,25887,125000
+100000,Random,Merge Sort,0.026186,1241664,1668928
+100000,Sorted,Bubble Sort,24.716487,4999950000,0
+100000,Sorted,Selection Sort,19.479892,4999950000,99999
+100000,Sorted,Insertion Sort,0.000589,0,99999
+100000,Sorted,Shell Sort,0.010979,0,1500006
+100000,Sorted,Quick Sort,8.159650,2500099999,150000
+100000,Sorted,Heap Sort,0.001463,62500,125000
+100000,Sorted,Merge Sort,0.024175,1250397,1668928

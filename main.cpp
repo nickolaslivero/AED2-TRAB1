@@ -244,6 +244,8 @@ int main() {
 
     string algorithms[] = {"Bubble Sort", "Selection Sort", "Insertion Sort", "Shell Sort", "Quick Sort", "Heap Sort", "Merge Sort"};
 
+    cout << "Array Size,Type,Algorithm,Time taken,Comparisons,Movements" << endl;
+
     for (int size : sizes) {
         for (const string& type : types) {
             int* arr = new int[size];
@@ -255,6 +257,7 @@ int main() {
             } else if (type == "Sorted") {
                 generateSortedArray(arr, size);
             }
+           
 
             for (const string& algorithm : algorithms) {
                 comparisons = 0;
@@ -277,7 +280,7 @@ int main() {
 
                 }
 
-                cout << "Array Size,Type,Algorithm,Time taken,Comparisons,Movements" << endl;
+                
                 cout << size << "," << type << "," << algorithm << "," << fixed << setprecision(6) << timeTaken << "," << comparisons << "," << movements << endl;
             }
 
