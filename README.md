@@ -34,7 +34,15 @@ Os gráficos gerados foram:
 <img src="https://live.staticflickr.com/65535/53399085687_876cb8a64d_z.jpg"/>
 
 ## 3) Conclusão
+A análise dos gráficos revela insights significativos sobre o desempenho dos algoritmos de ordenação. Notavelmente:
 
+a) O Bubble Sort demonstrou eficácia ao lidar com arrays de todos os tamanhos, entretanto, seus custos temporais foram os mais elevados em comparação com os demais algoritmos.
+
+b) Para os três primeiros tamanhos de arrays, destacaram-se os algoritmos Insertion Sort e Heap Sort como os mais eficazes, proporcionando resultados notáveis em termos de tempo de execução.
+
+c) Intrigantemente, ao enfrentar arrays no maior tamanho (100000), os algoritmos Insertion, Heap e Merge não foram capazes de concluir os testes. Em contrapartida, os algoritmos Bubble, Selection e Quick demonstraram sucesso ao completar todos os quatro testes, revelando sua robustez em lidar com conjuntos de dados mais extensos.
+
+Essas observações ressaltam a importância de considerar não apenas a eficácia, mas também a eficiência temporal dos algoritmos de ordenação, especialmente em cenários de grandes conjuntos de dados. Este insight tem implicações cruciais na escolha apropriada de algoritmos para otimização de desempenho em contextos específicos.
 
 ## 👩🏽🧔🏻‍♀️) Dupla
 | [<img src="https://avatars.githubusercontent.com/u/93674466?v=4" width=115><br><sub>Manuela Bastos</sub>](https://github.com/manupbastos) | [<img src="https://avatars.githubusercontent.com/u/90870510?v=4" width=115><br><sub>Nickolas Livero</sub>](https://github.com/nickolaslivero)| 
