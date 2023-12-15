@@ -3,11 +3,7 @@
 
 ## 1) Introdução
 
-``` bash
-
 Este trabalho visa comparar o desempenho de algoritmos de ordenação, incluindo BubbleSort, SelectSort, InsertSort, ShellSort, QuickSort, HeapSort e MergeSort. A implementação e análise dos algoritmos serão conduzidas em vetores de tamanhos variados, com foco na contagem de comparações, movimentações e tempo de execução. Os testes abrangerão cenários com vetores aleatórios e ordenados. O programa gerará saídas detalhadas, incluindo método de ordenação, tipo e tamanho do vetor, tempo de execução, e número de comparações e movimentações. A capacidade de imprimir os vetores antes e depois da execução será incorporada. Este estudo não apenas apresenta um código funcional, mas também oferece insights críticos sobre a escolha de algoritmos de ordenação em diferentes contextos. A documentação subsequente abordará a implementação detalhada, conclusões e desafios enfrentados.
-
-```
 
 ## 2) Implementação
 
