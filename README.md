@@ -17,6 +17,16 @@ Os gráficos gerados foram:
 
 <img src="https://live.staticflickr.com/65535/53400337649_a31bd2fb27_z.jpg"/>
 
+<img src="https://live.staticflickr.com/65535/53400015991_d7c09a5d32_z.jpg"/>
+
+<img src="https://live.staticflickr.com/65535/53400016001_9a00d93872_z.jpg"/>
+
+<img src="https://live.staticflickr.com/65535/53400447610_a8916f67f7_z.jpg"/>
+
+<img src="https://live.staticflickr.com/65535/53400016011_55013524c1_z.jpg"/>
+
+<img src="https://live.staticflickr.com/65535/53399085687_876cb8a64d_z.jpg"/>
+
 ## 3) Conclusão
 
 
