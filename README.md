@@ -15,17 +15,22 @@ Em resumo, o processo compreende a geração de dados por meio do programa em C+
 
 Os gráficos gerados foram:
 
-### 2.1
+### a)
 <img src="https://live.staticflickr.com/65535/53400337649_a31bd2fb27_z.jpg"/>
 
+### b)
 <img src="https://live.staticflickr.com/65535/53400015991_d7c09a5d32_z.jpg"/>
 
+### c)
 <img src="https://live.staticflickr.com/65535/53400016001_9a00d93872_z.jpg"/>
 
+### d)
 <img src="https://live.staticflickr.com/65535/53400447610_a8916f67f7_z.jpg"/>
 
+### e)
 <img src="https://live.staticflickr.com/65535/53400016011_55013524c1_z.jpg"/>
 
+### f)
 <img src="https://live.staticflickr.com/65535/53399085687_876cb8a64d_z.jpg"/>
 
 ## 3) Conclusão
